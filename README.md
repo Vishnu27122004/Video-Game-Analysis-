@@ -222,8 +222,7 @@ This project is licensed under the MIT License - see LICENSE file for details.
 ## 📧 Contact
 For questions or feedback:
 - GitHub Issues
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: [vishnupatelreddy2004@gmail.com ]
 
 ## 🙏 Acknowledgments
 - Video game industry data providers
